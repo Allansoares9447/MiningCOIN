@@ -1,6 +1,6 @@
-# MiningCOIN
-moedas de mineração
------BEGIN PUBLIC KEY----
+
+
+-----INICIAR CHAVE PÚBLICA ----
 
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw+pFU55zZbzQ16KOYoga
 
